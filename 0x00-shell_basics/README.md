@@ -1,1 +1,1 @@
-school.mgc
+102-tree
