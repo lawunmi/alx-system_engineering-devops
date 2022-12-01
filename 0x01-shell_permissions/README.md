@@ -1,1 +1,1 @@
-6-multiple_permissions shell permission
+7-everybody shell permission
